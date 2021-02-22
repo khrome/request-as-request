@@ -1,6 +1,6 @@
 {
   "name": "request-as-request",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Use request but with polymorphic-request goodies",
   "author": "Abbey Hawk Sparrow <@khrome> (http://patternweaver.com)",
   "contributors": [],
