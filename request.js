@@ -1,4 +1,4 @@
-var request = require('request');
+var request = require('postman-request');
 var formData = require('form-data');
 var poly = require('polymorphic-request').request(request, formData);
 module.exports = poly;

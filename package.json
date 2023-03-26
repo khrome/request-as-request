@@ -1,6 +1,6 @@
 {
   "name": "request-as-request",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Use request but with polymorphic-request goodies",
   "author": "Abbey Hawk Sparrow <@khrome> (http://patternweaver.com)",
   "contributors": [],
@@ -15,10 +15,11 @@
   "main": "request.js",
   "devDependencies": {},
   "peerDependencies": {
-      "request": "*"
+    "postman-request": "^2.88.1-postman.32"
   },
   "dependencies": {
+    "postman-request": "*",
     "form-data": "^3.0.0",
-    "polymorphic-request":"^0.1.1"
+    "polymorphic-request": "^0.1.1"
   }
 }
